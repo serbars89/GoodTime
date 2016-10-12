@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-import static org.apache.commons.lang3.StringUtils.isEmpty;
+import static org.springframework.util.StringUtils.isEmpty;
 
 /**
  * Created by Ser on 09.10.2016.
@@ -22,7 +22,6 @@ public class Test_GetLocal {
     @Qualifier("getLocal")
     GetLocal getLocal;
 
-//   GetLocal getLocal = new GetLocal();
 
     @Test
      public void test_getCuurentLocale_1(){
