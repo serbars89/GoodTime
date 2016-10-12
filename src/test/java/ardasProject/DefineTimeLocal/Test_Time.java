@@ -1,5 +1,6 @@
 package ardasProject.DefineTimeLocal;
 
+import junit.framework.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -24,17 +25,17 @@ public class Test_Time {
     @Test
     public void test_currentTime_1(){
 
-//        Long l_time = time.currentTime();
-//        Assert.assertNotNull(l_time);
-//        System.out.println("test_currentTime_1");
+        Long l_time = time.currentTime();
+        Assert.assertNotNull(l_time);
+        System.out.println("test_currentTime_1");
     }
 
     @Test
     public void test_currentTime_2(){
-//        Long l_time = time.currentTime();
-//        Assert.assertFalse(l_time < 0);
-//        Assert.assertFalse(l_time > 86400);
-//        System.out.println("test_currentTime_2 ");
+        Long l_time = time.currentTime();
+        Assert.assertFalse(l_time < 0);
+        Assert.assertFalse(l_time > 86400);
+        System.out.println("test_currentTime_2 ");
     }
 
 }
