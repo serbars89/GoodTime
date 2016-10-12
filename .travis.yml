@@ -1,1 +1,8 @@
 language: java
+
+before_install:
+  - 'if [[ -n "$DECRYPT_KEYPHRASE" ]]; then openssl aes-256-cbc -d -pass "env:DECRYPT_KEYPHRASE" -in .gnupg.tar.enc | tar xv; fi'
+  - 'if [[ ${TRAVIS_TAG} != "" ]]; then mvn versions:set -DnewVersion="${TRAVIS_TAG}"; fi'
+  - 'nvm install ${NODE_VERSION} && nvm use ${NODE_VERSION}'
+
+script: mvn clean verify
