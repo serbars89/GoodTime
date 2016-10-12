@@ -17,7 +17,6 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
         "/spring/context.xml"})
 public class Test_Time {
 
-//    Time time = new Time();
 
     @Autowired
     @Qualifier("time")
@@ -28,7 +27,7 @@ public class Test_Time {
 
         Long l_time = time.currentTime();
         Assert.assertNotNull(l_time);
-        System.out.println("test_currentTime_1 -- тест прошел удачно");
+        System.out.println("test_currentTime_1");
     }
 
     @Test
@@ -36,7 +35,7 @@ public class Test_Time {
         Long l_time = time.currentTime();
         Assert.assertFalse(l_time < 0);
         Assert.assertFalse(l_time > 86400);
-        System.out.println("test_currentTime_2 -- тест прошел удачно");
+        System.out.println("test_currentTime_2 ");
     }
 
 }
