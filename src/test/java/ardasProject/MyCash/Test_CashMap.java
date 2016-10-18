@@ -24,6 +24,7 @@ public class Test_CashMap {
 
     @Test
     public void test_getTimeRU() {
+        System.out.println();
         line_k = TimeCurrent.morning.name();
         line_v = HelloCurrent.Good_morning_World.name();
         cashMap.putTimeRU(line_k, line_v);
