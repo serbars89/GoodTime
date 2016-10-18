@@ -1,7 +1,435 @@
-2016-10-13 02:56:00 DEBUG SetCash - variable value line_v : "Good day, World!"
-2016-10-13 02:56:00 DEBUG SetCash - variable value line_k : "night"
-2016-10-13 02:56:00 DEBUG SetCash - variable value line_v : "Good night, World!"
-2016-10-13 02:56:00 DEBUG SetCash - variable value line_k : "morning"
-2016-10-13 02:56:00 DEBUG SetCash - variable value line_v : "Good morning, World!"
-2016-10-13 02:56:00 DEBUG GetLocal - variable value local : "ru_RU"
-2016-10-13 02:56:00 DEBUG GetLocal - variable value local : "ru_RU"
+2016-10-18 19:03:02 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 18
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-18 19:03:02 DEBUG Time - variable value  between : {
+  "seconds": 68582,
+  "nanos": 853000000
+}
+2016-10-18 19:03:20 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 18
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-18 19:03:20 DEBUG Time - variable value  between : {
+  "seconds": 68600,
+  "nanos": 193000000
+}
+2016-10-18 19:05:08 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 18
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-18 19:05:08 DEBUG Time - variable value  between : {
+  "seconds": 68708,
+  "nanos": 757000000
+}
+2016-10-18 19:05:53 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 18
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-18 19:05:53 DEBUG Time - variable value  between : {
+  "seconds": 68753,
+  "nanos": 162000000
+}
+2016-10-18 19:08:30 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 18
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-18 19:08:30 DEBUG Time - variable value  between : {
+  "seconds": 68910,
+  "nanos": 630000000
+}
+2016-10-18 19:09:38 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 18
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-18 19:09:38 DEBUG Time - variable value  between : {
+  "seconds": 68978,
+  "nanos": 337000000
+}
+2016-10-18 19:13:49 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 18
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-18 19:13:49 DEBUG Time - variable value  between : {
+  "seconds": 69229,
+  "nanos": 619000000
+}
+2016-10-18 19:14:16 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 18
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-18 19:14:16 DEBUG Time - variable value  between : {
+  "seconds": 69256,
+  "nanos": 634000000
+}
+2016-10-18 19:14:16 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 18
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-18 19:14:16 DEBUG Time - variable value  between : {
+  "seconds": 69256,
+  "nanos": 692000000
+}
+2016-10-18 19:14:16 DEBUG DefineTimePartDay - variable value current_time : 69256
+2016-10-18 19:14:16 DEBUG DefineTimePartDay - variable value lang : "evening"
+2016-10-18 19:14:16 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 18
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-18 19:14:16 DEBUG Time - variable value  between : {
+  "seconds": 69256,
+  "nanos": 702000000
+}
+2016-10-18 19:14:16 DEBUG DefineTimePartDay - variable value current_time : 69256
+2016-10-18 19:14:16 DEBUG DefineTimePartDay - variable value lang : "evening"
+2016-10-18 19:14:16 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 18
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-18 19:14:16 DEBUG Time - variable value  between : {
+  "seconds": 69256,
+  "nanos": 705000000
+}
+2016-10-18 19:14:16 DEBUG DefineTimePartDay - variable value current_time : 69256
+2016-10-18 19:14:16 DEBUG DefineTimePartDay - variable value lang : "evening"
+2016-10-18 19:14:16 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 18
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-18 19:14:16 DEBUG Time - variable value  between : {
+  "seconds": 69256,
+  "nanos": 719000000
+}
+2016-10-18 19:14:16 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 18
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-18 19:14:16 DEBUG Time - variable value  between : {
+  "seconds": 69256,
+  "nanos": 720000000
+}
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_k : "evening"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_v : "Добрый вечер, Мир!"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_k : "day"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_v : "Добрый день, Мир!"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_k : "night"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_v : "Доброй ночи, Мир!"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_k : "morning"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_v : "Доброго утра, Мир!"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_k : "evening"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_v : "Добрый вечер, Мир!"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_k : "day"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_v : "Добрый день, Мир!"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_k : "night"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_v : "Доброй ночи, Мир!"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_k : "morning"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_v : "Доброго утра, Мир!"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_k : "evening"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_v : "Добрий вечір, Світ!"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_k : "day"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_v : "Добрий день, Світ!"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_k : "night"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_v : "Доброї ночі, Світ!"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_k : "morning"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_v : "Добрий ранок, Світ!"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_k : "evening"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_v : "Добрий вечір, Світ!"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_k : "day"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_v : "Добрий день, Світ!"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_k : "night"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_v : "Доброї ночі, Світ!"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_k : "morning"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_v : "Добрий ранок, Світ!"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_k : "evening"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_v : "Good evening, World!"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_k : "day"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_v : "Good day, World!"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_k : "night"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_v : "Good night, World!"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_k : "morning"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_v : "Good morning, World!"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_k : "evening"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_v : "Good evening, World!"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_k : "day"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_v : "Good day, World!"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_k : "night"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_v : "Good night, World!"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_k : "morning"
+2016-10-18 19:14:16 DEBUG SetCash - variable value line_v : "Good morning, World!"
+2016-10-18 19:14:16 DEBUG GetLocal - variable value local : "ru_RU"
+2016-10-18 19:14:16 DEBUG GetLocal - variable value local : "ru_RU"
+2016-10-18 19:14:28 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 18
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-18 19:14:28 DEBUG Time - variable value  between : {
+  "seconds": 69268,
+  "nanos": 915000000
+}
+2016-10-18 19:14:28 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 18
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-18 19:14:28 DEBUG Time - variable value  between : {
+  "seconds": 69268,
+  "nanos": 973000000
+}
+2016-10-18 19:14:28 DEBUG DefineTimePartDay - variable value current_time : 69268
+2016-10-18 19:14:28 DEBUG DefineTimePartDay - variable value lang : "evening"
+2016-10-18 19:14:28 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 18
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-18 19:14:28 DEBUG Time - variable value  between : {
+  "seconds": 69268,
+  "nanos": 983000000
+}
+2016-10-18 19:14:28 DEBUG DefineTimePartDay - variable value current_time : 69268
+2016-10-18 19:14:28 DEBUG DefineTimePartDay - variable value lang : "evening"
+2016-10-18 19:14:28 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 18
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-18 19:14:28 DEBUG Time - variable value  between : {
+  "seconds": 69268,
+  "nanos": 985000000
+}
+2016-10-18 19:14:28 DEBUG DefineTimePartDay - variable value current_time : 69268
+2016-10-18 19:14:28 DEBUG DefineTimePartDay - variable value lang : "evening"
+2016-10-18 19:14:28 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 18
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-18 19:14:28 DEBUG Time - variable value  between : {
+  "seconds": 69268,
+  "nanos": 998000000
+}
+2016-10-18 19:14:29 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 18
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-18 19:14:29 DEBUG Time - variable value  between : {
+  "seconds": 69269,
+  "nanos": 0
+}
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_k : "evening"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_v : "Добрый вечер, Мир!"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_k : "day"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_v : "Добрый день, Мир!"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_k : "night"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_v : "Доброй ночи, Мир!"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_k : "morning"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_v : "Доброго утра, Мир!"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_k : "evening"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_v : "Добрый вечер, Мир!"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_k : "day"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_v : "Добрый день, Мир!"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_k : "night"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_v : "Доброй ночи, Мир!"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_k : "morning"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_v : "Доброго утра, Мир!"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_k : "evening"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_v : "Добрий вечір, Світ!"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_k : "day"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_v : "Добрий день, Світ!"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_k : "night"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_v : "Доброї ночі, Світ!"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_k : "morning"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_v : "Добрий ранок, Світ!"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_k : "evening"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_v : "Добрий вечір, Світ!"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_k : "day"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_v : "Добрий день, Світ!"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_k : "night"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_v : "Доброї ночі, Світ!"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_k : "morning"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_v : "Добрий ранок, Світ!"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_k : "evening"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_v : "Good evening, World!"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_k : "day"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_v : "Good day, World!"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_k : "night"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_v : "Good night, World!"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_k : "morning"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_v : "Good morning, World!"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_k : "evening"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_v : "Good evening, World!"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_k : "day"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_v : "Good day, World!"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_k : "night"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_v : "Good night, World!"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_k : "morning"
+2016-10-18 19:14:29 DEBUG SetCash - variable value line_v : "Good morning, World!"
+2016-10-18 19:14:29 DEBUG GetLocal - variable value local : "ru_RU"
+2016-10-18 19:14:29 DEBUG GetLocal - variable value local : "ru_RU"
