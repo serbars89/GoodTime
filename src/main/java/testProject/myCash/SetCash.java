@@ -20,7 +20,7 @@ public class SetCash {
     public String line_k;
     public String line_v;
 
-    ResourceBundle bundle;
+
 
     @Autowired
     CashMap cashMap;
@@ -39,7 +39,7 @@ public class SetCash {
 
     public void setCashMapRU(){
 
-        bundle = ResourceBundle.getBundle("TestBundle_ru_RU");
+        ResourceBundle bundle = ResourceBundle.getBundle("TestBundle_ru_RU");
 
         crashMethod(bundle);
         Enumeration<String> enumeration = bundle.getKeys();
@@ -56,7 +56,7 @@ public class SetCash {
 
     public void setCashMapUS(){
 
-        bundle = ResourceBundle.getBundle("TestBundle_en_US");
+        ResourceBundle bundle = ResourceBundle.getBundle("TestBundle_en_US");
 
         crashMethod(bundle);
         Enumeration<String> enumeration = bundle.getKeys();
@@ -74,7 +74,7 @@ public class SetCash {
 
     public void setCashMapUK(){
 
-        bundle = ResourceBundle.getBundle("TestBundle_uk_Uk");
+        ResourceBundle bundle = ResourceBundle.getBundle("TestBundle_uk_Uk");
 
         crashMethod(bundle);
         Enumeration<String> enumeration = bundle.getKeys();
