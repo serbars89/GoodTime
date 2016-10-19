@@ -7,19 +7,19 @@
        default-lazy-init="true"  >
 
 
-    <bean class="ardasProject.DefineTimeLocal.Time" id="time"/>
-    <bean class="ardasProject.DefineTimeLocal.DefineTimePartDay" id="defineTime"/>
-    <bean class="ardasProject.service.GetLocal" id="getLocal"/>
-    <bean class="ardasProject.start.StartProject" id="startProj"/>
-    <bean class="ardasProject.service.ClientSettings" id="clientSettings"/>
-    <bean class="ardasProject.myCash.SetCash" id="setCash"/>
-    <bean class="ardasProject.myCash.CashMap" id="cashMap"/>
-    <bean class="ardasProject.processing.SetCashProcessingLocale" id="setCashProcessingLocale"/>
-    <bean class="ardasProject.showLocalTime.DisplayLocaleTimeRU" id="display_lt_ru"/>
-    <bean class="ardasProject.showLocalTime.DisplayLocaleTimeUK" id="display_lt_uk"/>
-    <bean class="ardasProject.showLocalTime.Display_LT_US" id="display_lt_en"/>
-    <bean class="ardasProject.processing.RunnerStructure" id="runner"/>
-    <bean class="ardasProject.service.DisplayHello" id="starterDisp"/>
+    <bean class="testProject.DefineTimeLocal.Time" id="time"/>
+    <bean class="testProject.DefineTimeLocal.DefineTimePartDay" id="defineTime"/>
+    <bean class="testProject.service.GetLocal" id="getLocal"/>
+    <bean class="testProject.start.StartProject" id="startProj"/>
+    <bean class="testProject.service.ClientSettings" id="clientSettings"/>
+    <bean class="testProject.myCash.SetCash" id="setCash"/>
+    <bean class="testProject.myCash.CashMap" id="cashMap"/>
+    <bean class="testProject.processing.SetCashProcessingLocale" id="setCashProcessingLocale"/>
+    <bean class="testProject.showLocalTime.DisplayLocaleTimeRU" id="display_lt_ru"/>
+    <bean class="testProject.showLocalTime.DisplayLocaleTimeUK" id="display_lt_uk"/>
+    <bean class="testProject.showLocalTime.DisplayLocaleTimeUS" id="display_lt_en"/>
+    <bean class="testProject.processing.RunnerStructure" id="runner"/>
+    <bean class="testProject.service.DisplayHello" id="starterDisp"/>
 
 
 

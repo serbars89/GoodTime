@@ -31,22 +31,22 @@
         <appender-ref ref="consoleAppender"/>
     </category>
 
-    <category name="ardasProject.processing">
+    <category name="testProject.processing">
         <priority value="debug"/>
         <appender-ref ref="fileAppender"/>
     </category>
 
-    <category name="ardasProject.DefineTimeLocal">
+    <category name="testProject.DefineTimeLocal">
         <priority value="debug"/>
         <appender-ref ref="fileAppender"/>
     </category>
 
-    <category name="ardasProject.service">
+    <category name="testProject.service">
         <priority value="debug"/>
         <appender-ref ref="fileAppender"/>
     </category>
 
-    <category name="ardasProject.myCash">
+    <category name="testProject.myCash">
         <priority value="debug"/>
         <appender-ref ref="fileAppender"/>
     </category>
