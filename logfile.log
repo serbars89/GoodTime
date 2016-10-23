@@ -1,8 +1,9 @@
-2016-10-19 04:16:37 DEBUG Time - variable value  localDateTime : {
+2016-10-23 06:33:55 DEBUG RunnerStructure - object which was selected to display =  display_lt_ru
+2016-10-23 06:33:55 DEBUG Time - variable value  localDateTime : {
   "date": {
     "year": 2016,
     "month": 10,
-    "day": 19
+    "day": 23
   },
   "time": {
     "hour": 0,
@@ -11,17 +12,17 @@
     "nano": 0
   }
 }
-2016-10-19 04:16:37 DEBUG Time - variable value  between : {
-  "seconds": 15397,
-  "nanos": 51000000
+2016-10-23 06:33:55 DEBUG Time - variable value  between : {
+  "seconds": 23635,
+  "nanos": 488000000
 }
-2016-10-19 04:16:37 DEBUG DefineTimePartDay - variable value current_time : 15397
-2016-10-19 04:16:37 DEBUG DefineTimePartDay - variable value lang : "night"
-2016-10-19 04:16:37 DEBUG Time - variable value  localDateTime : {
+2016-10-23 06:33:55 DEBUG DefineTimePartDay - variable value current_time : 23635
+2016-10-23 06:33:55 DEBUG DefineTimePartDay - variable value lang : "morning"
+2016-10-23 06:34:39 DEBUG Time - variable value  localDateTime : {
   "date": {
     "year": 2016,
     "month": 10,
-    "day": 19
+    "day": 23
   },
   "time": {
     "hour": 0,
@@ -30,17 +31,37 @@
     "nano": 0
   }
 }
-2016-10-19 04:16:37 DEBUG Time - variable value  between : {
-  "seconds": 15397,
-  "nanos": 62000000
+2016-10-23 06:34:39 DEBUG Time - variable value  between : {
+  "seconds": 23679,
+  "nanos": 119000000
 }
-2016-10-19 04:16:37 DEBUG DefineTimePartDay - variable value current_time : 15397
-2016-10-19 04:16:37 DEBUG DefineTimePartDay - variable value lang : "night"
-2016-10-19 04:16:37 DEBUG Time - variable value  localDateTime : {
+2016-10-23 06:34:39 DEBUG Time - variable value  Calendar  : {
+  "year": 2016,
+  "month": 9,
+  "dayOfMonth": 23,
+  "hourOfDay": 6,
+  "minute": 34,
+  "second": 39
+}
+2016-10-23 06:34:42 DEBUG ClientSettings - ClientSettings.class variable value  df_line  : "g"
+2016-10-23 06:34:42 DEBUG RunnerStructure - current variable value true или false : false  
+2016-10-23 06:35:10 DEBUG GetLocal - variable value line : "uk"
+2016-10-23 06:35:10 DEBUG GetLocal - variable value local : "uk_UK"
+2016-10-23 06:35:10 DEBUG RunnerStructure - variable value getLocal_st (manually) : null
+2016-10-23 06:35:10 DEBUG SetCash - variable value line_k : "evening"
+2016-10-23 06:35:10 DEBUG SetCash - variable value line_v : "Добрий вечір, Світ!"
+2016-10-23 06:35:10 DEBUG SetCash - variable value line_k : "day"
+2016-10-23 06:35:10 DEBUG SetCash - variable value line_v : "Добрий день, Світ!"
+2016-10-23 06:35:10 DEBUG SetCash - variable value line_k : "night"
+2016-10-23 06:35:10 DEBUG SetCash - variable value line_v : "Доброї ночі, Світ!"
+2016-10-23 06:35:10 DEBUG SetCash - variable value line_k : "morning"
+2016-10-23 06:35:10 DEBUG SetCash - variable value line_v : "Добрий ранок, Світ!"
+2016-10-23 06:35:10 DEBUG RunnerStructure - object which was selected to display =  display_lt_uk
+2016-10-23 06:35:10 DEBUG Time - variable value  localDateTime : {
   "date": {
     "year": 2016,
     "month": 10,
-    "day": 19
+    "day": 23
   },
   "time": {
     "hour": 0,
@@ -49,17 +70,17 @@
     "nano": 0
   }
 }
-2016-10-19 04:16:37 DEBUG Time - variable value  between : {
-  "seconds": 15397,
-  "nanos": 64000000
+2016-10-23 06:35:10 DEBUG Time - variable value  between : {
+  "seconds": 23710,
+  "nanos": 778000000
 }
-2016-10-19 04:16:37 DEBUG DefineTimePartDay - variable value current_time : 15397
-2016-10-19 04:16:37 DEBUG DefineTimePartDay - variable value lang : "night"
-2016-10-19 04:16:37 DEBUG Time - variable value  localDateTime : {
+2016-10-23 06:35:10 DEBUG DefineTimePartDay - variable value current_time : 23710
+2016-10-23 06:35:10 DEBUG DefineTimePartDay - variable value lang : "morning"
+2016-10-23 06:36:48 DEBUG Time - variable value  localDateTime : {
   "date": {
     "year": 2016,
     "month": 10,
-    "day": 19
+    "day": 23
   },
   "time": {
     "hour": 0,
@@ -68,15 +89,350 @@
     "nano": 0
   }
 }
-2016-10-19 04:16:37 DEBUG Time - variable value  between : {
-  "seconds": 15397,
+2016-10-23 06:36:48 DEBUG Time - variable value  between : {
+  "seconds": 23808,
+  "nanos": 221000000
+}
+2016-10-23 06:36:48 DEBUG Time - variable value  Calendar  : {
+  "year": 2016,
+  "month": 9,
+  "dayOfMonth": 23,
+  "hourOfDay": 6,
+  "minute": 36,
+  "second": 48
+}
+2016-10-23 06:37:01 DEBUG ClientSettings - ClientSettings.class variable value  df_line  : "g"
+2016-10-23 06:37:01 DEBUG RunnerStructure - current variable value true или false : false  
+2016-10-23 06:37:28 DEBUG GetLocal - variable value line : "uk"
+2016-10-23 06:37:28 DEBUG GetLocal - variable value local : "uk_UK"
+2016-10-23 06:37:28 DEBUG RunnerStructure - variable value getLocal_st (manually) : null
+2016-10-23 06:37:28 DEBUG SetCash - variable value line_k : "evening"
+2016-10-23 06:37:28 DEBUG SetCash - variable value line_v : "Добрий вечір, Світ!"
+2016-10-23 06:37:28 DEBUG SetCash - variable value line_k : "day"
+2016-10-23 06:37:28 DEBUG SetCash - variable value line_v : "Добрий день, Світ!"
+2016-10-23 06:37:28 DEBUG SetCash - variable value line_k : "night"
+2016-10-23 06:37:28 DEBUG SetCash - variable value line_v : "Доброї ночі, Світ!"
+2016-10-23 06:37:28 DEBUG SetCash - variable value line_k : "morning"
+2016-10-23 06:37:28 DEBUG SetCash - variable value line_v : "Добрий ранок, Світ!"
+2016-10-23 06:37:28 DEBUG RunnerStructure - object which was selected to display =  display_lt_uk
+2016-10-23 06:37:28 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 23
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-23 06:37:28 DEBUG Time - variable value  between : {
+  "seconds": 23848,
+  "nanos": 643000000
+}
+2016-10-23 06:37:28 DEBUG DefineTimePartDay - variable value current_time : 23848
+2016-10-23 06:37:28 DEBUG DefineTimePartDay - variable value lang : "morning"
+2016-10-23 06:38:34 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 23
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-23 06:38:34 DEBUG Time - variable value  between : {
+  "seconds": 23914,
+  "nanos": 240000000
+}
+2016-10-23 06:38:34 DEBUG Time - variable value  Calendar  : {
+  "year": 2016,
+  "month": 9,
+  "dayOfMonth": 23,
+  "hourOfDay": 6,
+  "minute": 38,
+  "second": 34
+}
+2016-10-23 06:38:38 DEBUG ClientSettings - ClientSettings.class variable value  df_line  : "g"
+2016-10-23 06:38:38 DEBUG RunnerStructure - current variable value true или false : false  
+2016-10-23 06:42:24 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 23
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-23 06:42:24 DEBUG Time - variable value  between : {
+  "seconds": 24144,
+  "nanos": 289000000
+}
+2016-10-23 06:42:24 DEBUG Time - variable value  Calendar  : {
+  "year": 2016,
+  "month": 9,
+  "dayOfMonth": 23,
+  "hourOfDay": 6,
+  "minute": 42,
+  "second": 24
+}
+2016-10-23 06:42:27 DEBUG ClientSettings - ClientSettings.class variable value  df_line  : "g"
+2016-10-23 06:42:27 DEBUG RunnerStructure - current variable value true или false : false  
+2016-10-23 06:42:58 DEBUG GetLocal - variable value line : "ru"
+2016-10-23 06:42:58 DEBUG GetLocal - variable value local : "ru_RU"
+2016-10-23 06:42:58 DEBUG RunnerStructure - variable value getLocal_st (manually) : null
+2016-10-23 06:42:58 DEBUG SetCash - variable value line_k : "evening"
+2016-10-23 06:42:58 DEBUG SetCash - variable value line_v : "Добрый вечер, Мир!"
+2016-10-23 06:42:58 DEBUG SetCash - variable value line_k : "day"
+2016-10-23 06:42:58 DEBUG SetCash - variable value line_v : "Добрый день, Мир!"
+2016-10-23 06:42:58 DEBUG SetCash - variable value line_k : "night"
+2016-10-23 06:42:58 DEBUG SetCash - variable value line_v : "Доброй ночи, Мир!"
+2016-10-23 06:42:58 DEBUG SetCash - variable value line_k : "morning"
+2016-10-23 06:42:58 DEBUG SetCash - variable value line_v : "Доброго утра, Мир!"
+2016-10-23 06:42:58 DEBUG RunnerStructure - object which was selected to display =  display_lt_ru
+2016-10-23 06:42:58 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 23
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-23 06:42:58 DEBUG Time - variable value  between : {
+  "seconds": 24178,
+  "nanos": 315000000
+}
+2016-10-23 06:42:58 DEBUG DefineTimePartDay - variable value current_time : 24178
+2016-10-23 06:42:58 DEBUG DefineTimePartDay - variable value lang : "morning"
+2016-10-23 06:43:44 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 23
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-23 06:43:44 DEBUG Time - variable value  between : {
+  "seconds": 24224,
+  "nanos": 617000000
+}
+2016-10-23 06:43:44 DEBUG Time - variable value  Calendar  : {
+  "year": 2016,
+  "month": 9,
+  "dayOfMonth": 23,
+  "hourOfDay": 6,
+  "minute": 43,
+  "second": 44
+}
+2016-10-23 06:43:54 DEBUG ClientSettings - ClientSettings.class variable value  df_line  : "f"
+2016-10-23 06:43:54 DEBUG RunnerStructure - current variable value true или false : false  
+2016-10-23 06:44:04 DEBUG GetLocal - variable value line : "ru"
+2016-10-23 06:44:04 DEBUG GetLocal - variable value local : "ru_RU"
+2016-10-23 06:44:04 DEBUG RunnerStructure - variable value getLocal_st (manually) : null
+2016-10-23 06:44:04 DEBUG SetCash - variable value line_k : "evening"
+2016-10-23 06:44:04 DEBUG SetCash - variable value line_v : "Добрый вечер, Мир!"
+2016-10-23 06:44:04 DEBUG SetCash - variable value line_k : "day"
+2016-10-23 06:44:04 DEBUG SetCash - variable value line_v : "Добрый день, Мир!"
+2016-10-23 06:44:04 DEBUG SetCash - variable value line_k : "night"
+2016-10-23 06:44:04 DEBUG SetCash - variable value line_v : "Доброй ночи, Мир!"
+2016-10-23 06:44:04 DEBUG SetCash - variable value line_k : "morning"
+2016-10-23 06:44:04 DEBUG SetCash - variable value line_v : "Доброго утра, Мир!"
+2016-10-23 06:44:04 DEBUG RunnerStructure - object which was selected to display =  display_lt_ru
+2016-10-23 06:44:04 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 23
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-23 06:44:04 DEBUG Time - variable value  between : {
+  "seconds": 24244,
+  "nanos": 345000000
+}
+2016-10-23 06:44:04 DEBUG DefineTimePartDay - variable value current_time : 24244
+2016-10-23 06:44:04 DEBUG DefineTimePartDay - variable value lang : "morning"
+2016-10-23 06:44:11 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 23
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-23 06:44:11 DEBUG Time - variable value  between : {
+  "seconds": 24251,
+  "nanos": 111000000
+}
+2016-10-23 06:44:11 DEBUG Time - variable value  Calendar  : {
+  "year": 2016,
+  "month": 9,
+  "dayOfMonth": 23,
+  "hourOfDay": 6,
+  "minute": 44,
+  "second": 11
+}
+2016-10-23 06:44:14 DEBUG ClientSettings - ClientSettings.class variable value  df_line  : "a"
+2016-10-23 06:44:14 DEBUG RunnerStructure - current variable value true или false : true  
+2016-10-23 06:44:14 DEBUG GetLocal - variable value local : "ru_RU"
+2016-10-23 06:44:14 DEBUG RunnerStructure - variable value getLocal_st (automatic) : "ru_RU"
+2016-10-23 06:44:14 DEBUG SetCash - variable value line_k : "evening"
+2016-10-23 06:44:14 DEBUG SetCash - variable value line_v : "Добрый вечер, Мир!"
+2016-10-23 06:44:14 DEBUG SetCash - variable value line_k : "day"
+2016-10-23 06:44:14 DEBUG SetCash - variable value line_v : "Добрый день, Мир!"
+2016-10-23 06:44:14 DEBUG SetCash - variable value line_k : "night"
+2016-10-23 06:44:14 DEBUG SetCash - variable value line_v : "Доброй ночи, Мир!"
+2016-10-23 06:44:14 DEBUG SetCash - variable value line_k : "morning"
+2016-10-23 06:44:14 DEBUG SetCash - variable value line_v : "Доброго утра, Мир!"
+2016-10-23 06:44:14 DEBUG RunnerStructure - object which was selected to display =  display_lt_ru
+2016-10-23 06:44:14 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 23
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-23 06:44:14 DEBUG Time - variable value  between : {
+  "seconds": 24254,
+  "nanos": 705000000
+}
+2016-10-23 06:44:14 DEBUG DefineTimePartDay - variable value current_time : 24254
+2016-10-23 06:44:14 DEBUG DefineTimePartDay - variable value lang : "morning"
+2016-10-23 06:46:05 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 23
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-23 06:46:05 DEBUG Time - variable value  between : {
+  "seconds": 24365,
+  "nanos": 943000000
+}
+2016-10-23 06:46:06 DEBUG Time - variable value  Calendar  : {
+  "year": 2016,
+  "month": 9,
+  "dayOfMonth": 23,
+  "hourOfDay": 6,
+  "minute": 46,
+  "second": 6
+}
+2016-10-23 06:46:08 DEBUG ClientSettings - ClientSettings.class variable value  df_line  : "f"
+2016-10-23 06:46:08 DEBUG RunnerStructure - current variable value true или false : false  
+2016-10-23 06:46:19 DEBUG GetLocal - variable value line : "uk"
+2016-10-23 06:46:19 DEBUG GetLocal - variable value local : "uk_UK"
+2016-10-23 06:46:19 DEBUG RunnerStructure - variable value getLocal_st (manually) : null
+2016-10-23 06:46:19 DEBUG SetCash - variable value line_k : "evening"
+2016-10-23 06:46:19 DEBUG SetCash - variable value line_v : "Добрий вечір, Світ!"
+2016-10-23 06:46:19 DEBUG SetCash - variable value line_k : "day"
+2016-10-23 06:46:19 DEBUG SetCash - variable value line_v : "Добрий день, Світ!"
+2016-10-23 06:46:19 DEBUG SetCash - variable value line_k : "night"
+2016-10-23 06:46:19 DEBUG SetCash - variable value line_v : "Доброї ночі, Світ!"
+2016-10-23 06:46:19 DEBUG SetCash - variable value line_k : "morning"
+2016-10-23 06:46:19 DEBUG SetCash - variable value line_v : "Добрий ранок, Світ!"
+2016-10-23 06:46:19 DEBUG RunnerStructure - object which was selected to display =  display_lt_uk
+2016-10-23 06:46:19 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 23
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-23 06:46:19 DEBUG Time - variable value  between : {
+  "seconds": 24379,
+  "nanos": 140000000
+}
+2016-10-23 06:46:19 DEBUG DefineTimePartDay - variable value current_time : 24379
+2016-10-23 06:46:19 DEBUG DefineTimePartDay - variable value lang : "morning"
+2016-10-23 06:47:49 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 23
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-23 06:47:49 DEBUG Time - variable value  between : {
+  "seconds": 24469,
+  "nanos": 28000000
+}
+2016-10-23 06:47:49 DEBUG Time - variable value  localDateTime : {
+  "date": {
+    "year": 2016,
+    "month": 10,
+    "day": 23
+  },
+  "time": {
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "nano": 0
+  }
+}
+2016-10-23 06:47:49 DEBUG Time - variable value  between : {
+  "seconds": 24469,
   "nanos": 79000000
 }
-2016-10-19 04:16:37 DEBUG Time - variable value  localDateTime : {
+2016-10-23 06:47:49 DEBUG DefineTimePartDay - variable value current_time : 24469
+2016-10-23 06:47:49 DEBUG DefineTimePartDay - variable value lang : "morning"
+2016-10-23 06:47:49 DEBUG Time - variable value  localDateTime : {
   "date": {
     "year": 2016,
     "month": 10,
-    "day": 19
+    "day": 23
   },
   "time": {
     "hour": 0,
@@ -85,17 +441,17 @@
     "nano": 0
   }
 }
-2016-10-19 04:16:37 DEBUG Time - variable value  between : {
-  "seconds": 15397,
-  "nanos": 80000000
+2016-10-23 06:47:49 DEBUG Time - variable value  between : {
+  "seconds": 24469,
+  "nanos": 89000000
 }
-2016-10-19 04:16:37 DEBUG GetLocal - variable value local : "ru_RU"
-2016-10-19 04:16:37 DEBUG GetLocal - variable value local : "ru_RU"
-2016-10-19 04:16:37 DEBUG Time - variable value  localDateTime : {
+2016-10-23 06:47:49 DEBUG DefineTimePartDay - variable value current_time : 24469
+2016-10-23 06:47:49 DEBUG DefineTimePartDay - variable value lang : "morning"
+2016-10-23 06:47:49 DEBUG Time - variable value  localDateTime : {
   "date": {
     "year": 2016,
     "month": 10,
-    "day": 19
+    "day": 23
   },
   "time": {
     "hour": 0,
@@ -104,17 +460,17 @@
     "nano": 0
   }
 }
-2016-10-19 04:16:37 DEBUG Time - variable value  between : {
-  "seconds": 15397,
-  "nanos": 159000000
+2016-10-23 06:47:49 DEBUG Time - variable value  between : {
+  "seconds": 24469,
+  "nanos": 92000000
 }
-2016-10-19 04:16:37 DEBUG DefineTimePartDay - variable value current_time : 15397
-2016-10-19 04:16:37 DEBUG DefineTimePartDay - variable value lang : "night"
-2016-10-19 04:16:45 DEBUG Time - variable value  localDateTime : {
+2016-10-23 06:47:49 DEBUG DefineTimePartDay - variable value current_time : 24469
+2016-10-23 06:47:49 DEBUG DefineTimePartDay - variable value lang : "morning"
+2016-10-23 06:47:49 DEBUG Time - variable value  localDateTime : {
   "date": {
     "year": 2016,
     "month": 10,
-    "day": 19
+    "day": 23
   },
   "time": {
     "hour": 0,
@@ -123,15 +479,15 @@
     "nano": 0
   }
 }
-2016-10-19 04:16:45 DEBUG Time - variable value  between : {
-  "seconds": 15405,
-  "nanos": 405000000
+2016-10-23 06:47:49 DEBUG Time - variable value  between : {
+  "seconds": 24469,
+  "nanos": 102000000
 }
-2016-10-19 04:16:45 DEBUG Time - variable value  localDateTime : {
+2016-10-23 06:47:49 DEBUG Time - variable value  localDateTime : {
   "date": {
     "year": 2016,
     "month": 10,
-    "day": 19
+    "day": 23
   },
   "time": {
     "hour": 0,
@@ -140,17 +496,17 @@
     "nano": 0
   }
 }
-2016-10-19 04:16:45 DEBUG Time - variable value  between : {
-  "seconds": 15405,
-  "nanos": 472000000
+2016-10-23 06:47:49 DEBUG Time - variable value  between : {
+  "seconds": 24469,
+  "nanos": 104000000
 }
-2016-10-19 04:16:45 DEBUG DefineTimePartDay - variable value current_time : 15405
-2016-10-19 04:16:45 DEBUG DefineTimePartDay - variable value lang : "night"
-2016-10-19 04:16:54 DEBUG Time - variable value  localDateTime : {
+2016-10-23 06:47:49 DEBUG GetLocal - variable value local : "ru_RU"
+2016-10-23 06:47:49 DEBUG GetLocal - variable value local : "ru_RU"
+2016-10-23 06:47:49 DEBUG Time - variable value  localDateTime : {
   "date": {
     "year": 2016,
     "month": 10,
-    "day": 19
+    "day": 23
   },
   "time": {
     "hour": 0,
@@ -159,259 +515,9 @@
     "nano": 0
   }
 }
-2016-10-19 04:16:54 DEBUG Time - variable value  between : {
-  "seconds": 15414,
-  "nanos": 552000000
+2016-10-23 06:47:49 DEBUG Time - variable value  between : {
+  "seconds": 24469,
+  "nanos": 201000000
 }
-2016-10-19 04:16:54 DEBUG Time - variable value  Calendar  : {
-  "year": 2016,
-  "month": 9,
-  "dayOfMonth": 19,
-  "hourOfDay": 4,
-  "minute": 16,
-  "second": 54
-}
-2016-10-19 04:18:38 DEBUG Time - variable value  localDateTime : {
-  "date": {
-    "year": 2016,
-    "month": 10,
-    "day": 19
-  },
-  "time": {
-    "hour": 0,
-    "minute": 0,
-    "second": 0,
-    "nano": 0
-  }
-}
-2016-10-19 04:18:38 DEBUG Time - variable value  between : {
-  "seconds": 15518,
-  "nanos": 214000000
-}
-2016-10-19 04:18:38 DEBUG Time - variable value  localDateTime : {
-  "date": {
-    "year": 2016,
-    "month": 10,
-    "day": 19
-  },
-  "time": {
-    "hour": 0,
-    "minute": 0,
-    "second": 0,
-    "nano": 0
-  }
-}
-2016-10-19 04:18:38 DEBUG Time - variable value  between : {
-  "seconds": 15518,
-  "nanos": 270000000
-}
-2016-10-19 04:18:38 DEBUG DefineTimePartDay - variable value current_time : 15518
-2016-10-19 04:18:38 DEBUG DefineTimePartDay - variable value lang : "night"
-2016-10-19 04:18:38 DEBUG Time - variable value  localDateTime : {
-  "date": {
-    "year": 2016,
-    "month": 10,
-    "day": 19
-  },
-  "time": {
-    "hour": 0,
-    "minute": 0,
-    "second": 0,
-    "nano": 0
-  }
-}
-2016-10-19 04:18:38 DEBUG Time - variable value  between : {
-  "seconds": 15518,
-  "nanos": 279000000
-}
-2016-10-19 04:18:38 DEBUG DefineTimePartDay - variable value current_time : 15518
-2016-10-19 04:18:38 DEBUG DefineTimePartDay - variable value lang : "night"
-2016-10-19 04:18:38 DEBUG Time - variable value  localDateTime : {
-  "date": {
-    "year": 2016,
-    "month": 10,
-    "day": 19
-  },
-  "time": {
-    "hour": 0,
-    "minute": 0,
-    "second": 0,
-    "nano": 0
-  }
-}
-2016-10-19 04:18:38 DEBUG Time - variable value  between : {
-  "seconds": 15518,
-  "nanos": 281000000
-}
-2016-10-19 04:18:38 DEBUG DefineTimePartDay - variable value current_time : 15518
-2016-10-19 04:18:38 DEBUG DefineTimePartDay - variable value lang : "night"
-2016-10-19 04:18:38 DEBUG Time - variable value  localDateTime : {
-  "date": {
-    "year": 2016,
-    "month": 10,
-    "day": 19
-  },
-  "time": {
-    "hour": 0,
-    "minute": 0,
-    "second": 0,
-    "nano": 0
-  }
-}
-2016-10-19 04:18:38 DEBUG Time - variable value  between : {
-  "seconds": 15518,
-  "nanos": 293000000
-}
-2016-10-19 04:18:38 DEBUG Time - variable value  localDateTime : {
-  "date": {
-    "year": 2016,
-    "month": 10,
-    "day": 19
-  },
-  "time": {
-    "hour": 0,
-    "minute": 0,
-    "second": 0,
-    "nano": 0
-  }
-}
-2016-10-19 04:18:38 DEBUG Time - variable value  between : {
-  "seconds": 15518,
-  "nanos": 294000000
-}
-2016-10-19 04:18:38 DEBUG GetLocal - variable value local : "ru_RU"
-2016-10-19 04:18:38 DEBUG GetLocal - variable value local : "ru_RU"
-2016-10-19 04:18:38 DEBUG Time - variable value  localDateTime : {
-  "date": {
-    "year": 2016,
-    "month": 10,
-    "day": 19
-  },
-  "time": {
-    "hour": 0,
-    "minute": 0,
-    "second": 0,
-    "nano": 0
-  }
-}
-2016-10-19 04:18:38 DEBUG Time - variable value  between : {
-  "seconds": 15518,
-  "nanos": 375000000
-}
-2016-10-19 04:18:38 DEBUG DefineTimePartDay - variable value current_time : 15518
-2016-10-19 04:18:38 DEBUG DefineTimePartDay - variable value lang : "night"
-2016-10-19 04:19:00 DEBUG Time - variable value  localDateTime : {
-  "date": {
-    "year": 2016,
-    "month": 10,
-    "day": 19
-  },
-  "time": {
-    "hour": 0,
-    "minute": 0,
-    "second": 0,
-    "nano": 0
-  }
-}
-2016-10-19 04:19:00 DEBUG Time - variable value  between : {
-  "seconds": 15540,
-  "nanos": 248000000
-}
-2016-10-19 04:19:00 DEBUG Time - variable value  Calendar  : {
-  "year": 2016,
-  "month": 9,
-  "dayOfMonth": 19,
-  "hourOfDay": 4,
-  "minute": 19,
-  "second": 0
-}
-2016-10-19 04:19:03 DEBUG ClientSettings - ClientSettings.class variable value  df_line  : "a"
-2016-10-19 04:19:03 DEBUG RunnerStructure - current variable value true или false : true  
-2016-10-19 04:19:03 DEBUG GetLocal - variable value local : "ru_RU"
-2016-10-19 04:19:03 DEBUG RunnerStructure - variable value getLocal_st (automatic) : "ru_RU"
-2016-10-19 04:19:03 DEBUG SetCash - variable value line_k : "evening"
-2016-10-19 04:19:03 DEBUG SetCash - variable value line_v : "Добрый вечер, Мир!"
-2016-10-19 04:19:03 DEBUG SetCash - variable value line_k : "day"
-2016-10-19 04:19:03 DEBUG SetCash - variable value line_v : "Добрый день, Мир!"
-2016-10-19 04:19:03 DEBUG SetCash - variable value line_k : "night"
-2016-10-19 04:19:03 DEBUG SetCash - variable value line_v : "Доброй ночи, Мир!"
-2016-10-19 04:19:03 DEBUG SetCash - variable value line_k : "morning"
-2016-10-19 04:19:03 DEBUG SetCash - variable value line_v : "Доброго утра, Мир!"
-2016-10-19 04:19:03 DEBUG RunnerStructure - object which was selected to display =  display_lt_ru
-2016-10-19 04:19:03 DEBUG Time - variable value  localDateTime : {
-  "date": {
-    "year": 2016,
-    "month": 10,
-    "day": 19
-  },
-  "time": {
-    "hour": 0,
-    "minute": 0,
-    "second": 0,
-    "nano": 0
-  }
-}
-2016-10-19 04:19:04 DEBUG Time - variable value  between : {
-  "seconds": 15543,
-  "nanos": 999000000
-}
-2016-10-19 04:19:04 DEBUG DefineTimePartDay - variable value current_time : 15543
-2016-10-19 04:19:04 DEBUG DefineTimePartDay - variable value lang : "night"
-2016-10-19 05:34:42 DEBUG Time - variable value  localDateTime : {
-  "date": {
-    "year": 2016,
-    "month": 10,
-    "day": 19
-  },
-  "time": {
-    "hour": 0,
-    "minute": 0,
-    "second": 0,
-    "nano": 0
-  }
-}
-2016-10-19 05:34:42 DEBUG Time - variable value  between : {
-  "seconds": 20082,
-  "nanos": 844000000
-}
-2016-10-19 05:34:42 DEBUG Time - variable value  Calendar  : {
-  "year": 2016,
-  "month": 9,
-  "dayOfMonth": 19,
-  "hourOfDay": 5,
-  "minute": 34,
-  "second": 42
-}
-2016-10-19 05:34:50 DEBUG ClientSettings - ClientSettings.class variable value  df_line  : "g"
-2016-10-19 05:34:50 DEBUG RunnerStructure - current variable value true или false : false  
-2016-10-19 05:34:53 DEBUG GetLocal - variable value line : "uk"
-2016-10-19 05:34:53 DEBUG GetLocal - variable value local : "uk_UK"
-2016-10-19 05:34:53 DEBUG RunnerStructure - variable value getLocal_st (manually) : null
-2016-10-19 05:34:53 DEBUG SetCash - variable value line_k : "evening"
-2016-10-19 05:34:53 DEBUG SetCash - variable value line_v : "Добрий вечір, Світ!"
-2016-10-19 05:34:53 DEBUG SetCash - variable value line_k : "day"
-2016-10-19 05:34:53 DEBUG SetCash - variable value line_v : "Добрий день, Світ!"
-2016-10-19 05:34:53 DEBUG SetCash - variable value line_k : "night"
-2016-10-19 05:34:53 DEBUG SetCash - variable value line_v : "Доброї ночі, Світ!"
-2016-10-19 05:34:53 DEBUG SetCash - variable value line_k : "morning"
-2016-10-19 05:34:53 DEBUG SetCash - variable value line_v : "Добрий ранок, Світ!"
-2016-10-19 05:34:53 DEBUG RunnerStructure - object which was selected to display =  display_lt_uk
-2016-10-19 05:34:53 DEBUG Time - variable value  localDateTime : {
-  "date": {
-    "year": 2016,
-    "month": 10,
-    "day": 19
-  },
-  "time": {
-    "hour": 0,
-    "minute": 0,
-    "second": 0,
-    "nano": 0
-  }
-}
-2016-10-19 05:34:53 DEBUG Time - variable value  between : {
-  "seconds": 20093,
-  "nanos": 386000000
-}
-2016-10-19 05:34:53 DEBUG DefineTimePartDay - variable value current_time : 20093
-2016-10-19 05:34:53 DEBUG DefineTimePartDay - variable value lang : "night"
+2016-10-23 06:47:49 DEBUG DefineTimePartDay - variable value current_time : 24469
+2016-10-23 06:47:49 DEBUG DefineTimePartDay - variable value lang : "morning"

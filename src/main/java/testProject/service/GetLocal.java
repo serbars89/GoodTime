@@ -25,13 +25,24 @@ public class GetLocal {
     private static Gson gson = new GsonBuilder().setPrettyPrinting().serializeNulls().create();
 
     public String local;
+    Region region;
+    String line;
 
     public String getEnterLocale(){
+        int count =0;
         Scanner scanner = new Scanner(System.in);
-        System.out.println("please enter current locale , for example:  ru , en , uk ");
-        String line = scanner.next();
-        line.trim();
-        line.toLowerCase();
+
+        while (!((region.en.name().equals(line)) || (region.uk.name().equals(line)) ||(region.ru.name().equals(line)))){
+            if(count > 0) {
+                System.out.println("Pleas enter correct name local");
+            }else{
+            System.out.println("please enter current locale , for example:  ru , en , uk ");}
+            line = scanner.next();
+            line.trim();
+            line.toLowerCase();
+            count++;
+        }
+
         LOG.debug("variable value line : {}", gson.toJson(line));
 
         if(StringUtils.isBlank(line)){

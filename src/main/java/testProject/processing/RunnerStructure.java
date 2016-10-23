@@ -38,8 +38,6 @@ public class RunnerStructure {
     @Autowired
     DisplayLocaleTimeRU display_lt_ru;
 
-    IDisplay_LT iDisplay_lt;
-
     @Autowired
     Time time;
 
@@ -89,9 +87,10 @@ public class RunnerStructure {
             LOG.debug("object which was selected to display =  display_lt_ru");
             return display_lt_ru;
         }
-        LOG.debug("Attention  ERROR !!!   object = NULL");
-            iDisplay_lt = null;
-            return iDisplay_lt;
+        else{
+            LOG.debug("Attention  ERROR !!!   object = NULL");
+            throw new MyException();
+        }
 
     }
 }
