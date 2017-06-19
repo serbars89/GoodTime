@@ -25,6 +25,7 @@ public class Test_SetCash {
     private String line_k;
     private String line_v;
 
+
     @Test(expected = MyException.class)
     public void test_crashMethod(){
         setCash.crashMethod(null);
